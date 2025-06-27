@@ -5,3 +5,7 @@ It allows you to add, complete, edit, and delete your daily tasks — all stored
 ## 🖼️ Preview
 
 ![To-Do List Screenshot](screenshot.png)
+
+## 🔗 Live Demo
+
+[Click here to view the website](https://kaviya-s-211.github.io/Simple-To-Do-List/)
